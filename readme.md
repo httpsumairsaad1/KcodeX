@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Single&size=30&duration=2300&pause=100&width=435&lines=KODEVSYS;Agentic+AI+System;Built+with+LangGraph)](https://git.io/typing-svg)
+
 # 🤖 kodevsys
 
 **kodevsys** is an end-to-end **Agentic AI** project powered by **LangGraph**, inspired by tools like Lovable.
